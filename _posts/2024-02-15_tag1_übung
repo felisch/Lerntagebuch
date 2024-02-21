@@ -1,1 +1,39 @@
+---
+title: "Tag 1"
+date: 15-02-2024
+---
 
+- Timeout verlängern
+--> damit Codespaces nicht nach kurzer Zeit sich schliessen
+--> auf 240 Minuten erhöhen
+
+- Grundlagen Unix Shell
+--> Definition Unix Shell
+--> was ist besonders an Linus/Kommandozeile?
+
+- Übung Dateisystem
+--> Kapitel 2 und 3 bearbeiten von Library Carpentry Lesson zur Unix Shell
+--> Übungen daraus in Codespace eingeben und verstehen
+--> allfällige Schwierigkeiten aufzählen
+
+- Tipps zur Unix Shell
+--> Befehl-Tipps
+
+- Übung Textanalyse mit der Shell
+--> Kapitel 5 aus vorhin genanntem Buch
+
+- Versionskontrolle mit Git
+--> bereits in vorigem Blog (Blog 1) kurz darauf eingegangen
+--> wozu Git?
+--> Unterschiede zwischen Git und GitHub
+
+- Demo: typischer Git Workflow
+--> Fork erstellen
+--> Änderung vornehmen und committen
+--> Pull Request anlegen
+
+- Zwischenfazit
+--> eigenes Fazit ziehen
+
+- Codespace manuell löschen
+--> wie macht man das?
